@@ -8,7 +8,7 @@ Installation
 
 Clone the repository to your webserver:
 
-
+https://github.com/Starline123/RikaDashboard.git
 
 Example
 -------
