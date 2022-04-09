@@ -1,19 +1,19 @@
 Notes
 -----
 
-This dashboard was written for PHP 5.4 and Ubuntu, there is no support for other operating systems yet. Also, not all system information is included. If you would like to add these additional features, feel free to fork and create a pull request.
+Server dashboard written in PHP.
 
 Installation
 ------------
 
 Clone the repository to your webserver:
 
-    git clone https://github.com/jenssegers/dashboard.git
+
 
 Example
 -------
 
-![Dashboard example](http://jenssegers.be/uploads/images/dashboard.png)
+![Dashboard example](https://i.imgur.com/gs7zDPY.png)
 
 Features
 --------
